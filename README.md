@@ -160,11 +160,7 @@ Ou utilize a extensão **Live Server** no VS Code.
 
 ## 👩‍💻 Autora
 
-Rafaela Oliveira  
+**Rafaela Oliveira** 💙
+
 Estudante de Desenvolvimento de Sistemas  
 
----
-
-## 📜 Licença
-
-Projeto desenvolvido para fins educacionais.
