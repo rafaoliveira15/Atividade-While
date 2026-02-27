@@ -1,9 +1,7 @@
 function gerarTabuada() {
-
   let resultadoFinal = "";
-  
-  let numero = 1;
 
+  let numero = 1;
 
   while (numero <= 10) {
     resultadoFinal += `<div class='card'>`;
@@ -23,6 +21,8 @@ function gerarTabuada() {
   }
 
   document.getElementById("resultado").innerHTML = resultadoFinal;
-
 }
 
+function limpar() {
+  document.getElementById("resultado").innerHTML = "";
+}
